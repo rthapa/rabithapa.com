@@ -1,0 +1,245 @@
+0000.000 (0) Opened log file at time: Fri, 18 May 2018 09:45:59 +0000 on https://www.rabithapa.com
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.7 WP: 4.8.3 PHP: 7.1.15-1+0~20180306120016.15+stretch~1.gbp78327e (apache2handler, Linux debian-512mb-lon1-01 4.9.0-6-amd64 #1 SMP Debian 4.9.82-1+deb9u3 (2018-03-02) x86_64) MySQL: 5.5.5 WPLANG: en_GB Server: Apache/2.4.25 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.5M | 4M) multisite: N openssl: OpenSSL 1.1.0f  25 May 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 15782.9 MB
+0000.010 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.016 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.021 (0) Set semaphore last lock (fd) time to 2018-05-18 09:45:59
+0000.023 (0) Semaphore lock (fd) complete
+0000.029 (0) Backup run: resumption=0, nonce=7d230f13265c, begun at=1526636759 (0s ago), job type=backup
+0000.033 (0) Scheduling a resumption (1) after 300 seconds (1526637059) in case this run gets aborted
+0000.068 (0) Checking if we have a zip executable available
+0000.073 (0) Creation of backups of directories: beginning
+0000.085 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.160 (0) Total entities for the zip file: 417 directories, 2928 files (0 skipped as non-modified), 45.1 MB
+0000.171 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.178 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.186 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.194 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.202 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.204 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.1 MB, 2928 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.115 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 600 files added (on-disk size: 2771.8 KB)
+0001.123 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 700 files added (on-disk size: 2771.8 KB)
+0001.133 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 800 files added (on-disk size: 2771.8 KB)
+0001.142 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 900 files added (on-disk size: 2771.8 KB)
+0001.150 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 1000 files added (on-disk size: 2771.8 KB)
+0001.153 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.7 MB, 2928 files batched, 501 (1002) added so far); re-opening (prior size: 2771.8 KB)
+0001.641 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 1100 files added (on-disk size: 3687.8 KB)
+0001.648 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 1200 files added (on-disk size: 3687.8 KB)
+0001.656 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 1300 files added (on-disk size: 3687.8 KB)
+0001.663 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 1400 files added (on-disk size: 3687.8 KB)
+0001.670 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 1500 files added (on-disk size: 3687.8 KB)
+0001.673 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2 MB, 2928 files batched, 501 (1503) added so far); re-opening (prior size: 3687.8 KB)
+0001.983 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 1600 files added (on-disk size: 4690.1 KB)
+0001.991 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 1700 files added (on-disk size: 4690.1 KB)
+0001.998 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 1800 files added (on-disk size: 4690.1 KB)
+0002.006 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 1900 files added (on-disk size: 4690.1 KB)
+0002.013 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 2000 files added (on-disk size: 4690.1 KB)
+0002.016 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.3 MB, 2928 files batched, 501 (2004) added so far); re-opening (prior size: 4690.1 KB)
+0003.775 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 2100 files added (on-disk size: 9770 KB)
+0003.791 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 2200 files added (on-disk size: 9770 KB)
+0003.804 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 2300 files added (on-disk size: 9770 KB)
+0003.817 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 2400 files added (on-disk size: 9770 KB)
+0003.829 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 2500 files added (on-disk size: 9770 KB)
+0003.836 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.6 MB, 2928 files batched, 501 (2505) added so far); re-opening (prior size: 9770 KB)
+0005.750 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 2600 files added (on-disk size: 13074.1 KB)
+0005.759 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 2700 files added (on-disk size: 13074.1 KB)
+0005.767 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 2800 files added (on-disk size: 13074.1 KB)
+0005.775 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip.tmp: 2900 files added (on-disk size: 13074.1 KB)
+0006.654 (0) Created plugins zip (0) - 15415.3 KB in 6.6 s (2347.7 KB/s) (sha1: c8bf64c14ef29b540f4bcad042fbebca51682213, sha256: 91c1b778544f150a6170568e2d6dc994714c06011033505d5f70285e0cdcd9e3)
+0006.659 (0) Beginning creation of dump of themes (split every: 400 MB)
+0006.678 (0) Total entities for the zip file: 31 directories, 280 files (0 skipped as non-modified), 3.6 MB
+0006.687 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.694 (0) Zip: backup_2018-05-18-0945_Rabi_7d230f13265c-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0006.961 (0) Created themes zip (0) - 2883.5 KB in 0.3 s (9636.1 KB/s) (sha1: e1c3222ccd2062a59ef089474bfae3750bcb307e, sha256: 90e28264f72a89a137b40e9780d763634e0413cb5b745f33d7609bf579c0470d)
+0006.967 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0006.969 (0) Looking for candidates to back up in: /var/www/html/wp-content/uploads
+0006.971 (0) finding files: mc4wp-debug-log.php: adding to list (1)
+0006.973 (0) finding files: 2018: adding to list (2)
+0006.973 (0) finding files: 2017: adding to list (3)
+0006.975 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0006.982 (0) Total entities for the zip file: 6 directories, 25 files (0 skipped as non-modified), 3.3 MB
+0007.099 (0) Created uploads zip (0) - 3355.8 KB in 0.1 s (27550.8 KB/s) (sha1: 95fd8a63519a5ece68fe7b4ee5d6ec5cab65e2fb, sha256: 493c88698651a5a88ed930c3473514339085aa98061b598049b931445f8a245c)
+0007.107 (0) Beginning backup of other directories found in the content directory (index: 0)
+0007.112 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0007.113 (0) Looking for candidates to back up in: /var/www/html/wp-content
+0007.115 (0) finding files: upgrade: skipping: excluded by options
+0007.117 (0) finding files: plugins: skipping: this is the plugins directory
+0007.118 (0) finding files: index.php: adding to list (1)
+0007.119 (0) finding files: themes: skipping: this is the themes directory
+0007.120 (0) finding files: uploads: skipping: this is the uploads directory
+0007.121 (0) finding files: languages: adding to list (2)
+0007.123 (0) finding files: updraft: skipping: this is the updraft directory
+0007.133 (0) Total entities for the zip file: 3 directories, 17 files (0 skipped as non-modified), 1.5 MB
+0007.365 (0) Created others zip (0) - 370.1 KB in 0.2 s (1551.3 KB/s) (sha1: ec0f6c3158b9212535db9490500f50c380570a08, sha256: fa56a15aae44f47b6e5ccee52cd6bdb516c433ab49c70a05c7c99a9226d9f0fb)
+0007.375 (0) Saving backup status to database (elements: 8)
+0007.381 (0) Beginning creation of database dump (WordPress DB)
+0007.386 (0) Testing: /usr/bin/mysqldump
+0007.431 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1194 bytes total)
+0007.435 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0007.444 (0) Table wp_options: Total expected rows (approximate): 274
+0007.489 (0) Table wp_options: Total rows added: 278 in 0.04 seconds
+0007.492 (0) Table wp_options: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_options.table.gz - 101 KB)
+0007.500 (0) Table wp_users: Total expected rows (approximate): 0
+0007.504 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0007.507 (0) Table wp_users: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_users.table.gz - 0.5 KB)
+0007.515 (0) Table wp_usermeta: Total expected rows (approximate): 25
+0007.519 (0) Table wp_usermeta: Total rows added: 25 in 0.00 seconds
+0007.521 (0) Table wp_usermeta: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_usermeta.table.gz - 2.2 KB)
+0007.528 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0007.531 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0007.534 (0) Table wp_commentmeta: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0007.541 (0) Table wp_comments: Total expected rows (approximate): 1
+0007.545 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0007.548 (0) Table wp_comments: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_comments.table.gz - 0.5 KB)
+0007.557 (0) Table wp_links: Total expected rows (approximate): 0
+0007.561 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0007.564 (0) Table wp_links: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_links.table.gz - 0.4 KB)
+0007.570 (0) Table wp_postmeta: Total expected rows (approximate): 95
+0007.574 (0) Table wp_postmeta: Total rows added: 95 in 0.00 seconds
+0007.577 (0) Table wp_postmeta: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_postmeta.table.gz - 2 KB)
+0007.585 (0) Table wp_posts: Total expected rows (approximate): 99
+0007.597 (0) Table wp_posts: Total rows added: 98 in 0.01 seconds
+0007.601 (0) Table wp_posts: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_posts.table.gz - 10.1 KB)
+0007.609 (0) Table wp_term_relationships: Total expected rows (approximate): 11
+0007.613 (0) Table wp_term_relationships: Total rows added: 10 in 0.00 seconds
+0007.616 (0) Table wp_term_relationships: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0007.622 (0) Table wp_term_taxonomy: Total expected rows (approximate): 2
+0007.626 (0) Table wp_term_taxonomy: Total rows added: 3 in 0.00 seconds
+0007.629 (0) Table wp_term_taxonomy: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0007.636 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0007.638 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0007.640 (0) Table wp_termmeta: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_termmeta.table.gz - 0.4 KB)
+0007.646 (0) Table wp_terms: Total expected rows (approximate): 2
+0007.649 (0) Table wp_terms: Total rows added: 3 in 0.00 seconds
+0007.651 (0) Table wp_terms: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_terms.table.gz - 0.4 KB)
+0007.656 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 0
+0007.659 (0) Table wp_yoast_seo_links: Total rows added: 0 in 0.00 seconds
+0007.661 (0) Table wp_yoast_seo_links: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_yoast_seo_links.table.gz - 0.4 KB)
+0007.667 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 17
+0007.670 (0) Table wp_yoast_seo_meta: Total rows added: 18 in 0.00 seconds
+0007.672 (0) Table wp_yoast_seo_meta: finishing file (backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_yoast_seo_meta.table.gz - 0.4 KB)
+0007.677 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_options.table.gz (1/14): adding to final database dump
+0007.700 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_users.table.gz (2/14): adding to final database dump
+0007.703 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_usermeta.table.gz (3/14): adding to final database dump
+0007.704 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_commentmeta.table.gz (4/14): adding to final database dump
+0007.706 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_comments.table.gz (5/14): adding to final database dump
+0007.708 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_links.table.gz (6/14): adding to final database dump
+0007.709 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_postmeta.table.gz (7/14): adding to final database dump
+0007.712 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_posts.table.gz (8/14): adding to final database dump
+0007.717 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_term_relationships.table.gz (9/14): adding to final database dump
+0007.720 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_term_taxonomy.table.gz (10/14): adding to final database dump
+0007.721 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_termmeta.table.gz (11/14): adding to final database dump
+0007.724 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_terms.table.gz (12/14): adding to final database dump
+0007.725 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_yoast_seo_links.table.gz (13/14): adding to final database dump
+0007.727 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db-table-wp_yoast_seo_meta.table.gz (14/14): adding to final database dump
+0007.729 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db.gz: finished writing out complete database file (104 KB)
+0007.741 (0) Total database tables backed up: 14 (backup_2018-05-18-0945_Rabi_7d230f13265c-db.gz, size: 119014, sha256)
+0007.752 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0007.753 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0007.755 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0007.757 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-others.zip: others: This file has not yet been successfully uploaded: will queue
+0007.758 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0007.759 (0) Saving backup history. Total backup size: 21.6 MB
+0007.764 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0007.769 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0007.772 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-bf7bff5e3c2f45fdc283ac57bd8bedd5)
+0011.590 (0) Google Drive quota usage: used=117 MB, total=17408 MB, available=17291 MB
+0011.593 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip: Attempting to upload to Google Drive (into folder id: 142uJ7hXDuTUkB5w7WJIhlf1-If4DOr30)
+0011.938 (0) Googledrive chunked upload: 6.6 % uploaded (1048576)
+0012.062 (0) Googledrive chunked upload: 13.3 % uploaded (2097152)
+0012.181 (0) Googledrive chunked upload: 19.9 % uploaded (3145728)
+0012.300 (0) Googledrive chunked upload: 26.6 % uploaded (4194304)
+0012.408 (0) Googledrive chunked upload: 33.2 % uploaded (5242880)
+0012.520 (0) Googledrive chunked upload: 39.9 % uploaded (6291456)
+0012.644 (0) Googledrive chunked upload: 46.5 % uploaded (7340032)
+0012.765 (0) Googledrive chunked upload: 53.1 % uploaded (8388608)
+0012.884 (0) Googledrive chunked upload: 59.8 % uploaded (9437184)
+0013.007 (0) Googledrive chunked upload: 66.4 % uploaded (10485760)
+0013.155 (0) Googledrive chunked upload: 73.1 % uploaded (11534336)
+0013.276 (0) Googledrive chunked upload: 79.7 % uploaded (12582912)
+0013.394 (0) Googledrive chunked upload: 86.4 % uploaded (13631488)
+0013.521 (0) Googledrive chunked upload: 93 % uploaded (14680064)
+0013.649 (0) Googledrive chunked upload: 99.6 % uploaded (15728640)
+0014.590 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0014.597 (0) OK: Archive backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip uploaded to Google Drive in 3 seconds
+0014.600 (0) Recording as successfully uploaded: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip (370627f80d269d4535b6f6d7c7327d0f)
+0014.610 (0) Deleting local file: backup_2018-05-18-0945_Rabi_7d230f13265c-plugins.zip: OK
+0014.896 (0) Google Drive quota usage: used=132.1 MB, total=17408 MB, available=17275.9 MB
+0014.898 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-themes.zip: Attempting to upload to Google Drive (into folder id: 142uJ7hXDuTUkB5w7WJIhlf1-If4DOr30)
+0015.233 (0) Googledrive chunked upload: 35.5 % uploaded (1048576)
+0015.361 (0) Googledrive chunked upload: 71 % uploaded (2097152)
+0016.243 (0) Googledrive chunked upload: 100 % uploaded (2097152)
+0016.251 (0) OK: Archive backup_2018-05-18-0945_Rabi_7d230f13265c-themes.zip uploaded to Google Drive in 1.35 seconds
+0016.256 (0) Recording as successfully uploaded: backup_2018-05-18-0945_Rabi_7d230f13265c-themes.zip (b5bb86b2cf16ff9886384a5eb2d270f6)
+0016.266 (0) Deleting local file: backup_2018-05-18-0945_Rabi_7d230f13265c-themes.zip: OK
+0016.501 (0) Google Drive quota usage: used=134.9 MB, total=17408 MB, available=17273.1 MB
+0016.505 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-uploads.zip: Attempting to upload to Google Drive (into folder id: 142uJ7hXDuTUkB5w7WJIhlf1-If4DOr30)
+0016.940 (0) Googledrive chunked upload: 30.5 % uploaded (1048576)
+0017.059 (0) Googledrive chunked upload: 61 % uploaded (2097152)
+0017.195 (0) Googledrive chunked upload: 91.5 % uploaded (3145728)
+0017.909 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0017.914 (0) OK: Archive backup_2018-05-18-0945_Rabi_7d230f13265c-uploads.zip uploaded to Google Drive in 1.41 seconds
+0017.917 (0) Recording as successfully uploaded: backup_2018-05-18-0945_Rabi_7d230f13265c-uploads.zip (6610ee114766a3c2f0c3ff4813d4339a)
+0017.923 (0) Deleting local file: backup_2018-05-18-0945_Rabi_7d230f13265c-uploads.zip: OK
+0018.272 (0) Google Drive quota usage: used=138.2 MB, total=17408 MB, available=17269.8 MB
+0018.275 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-others.zip: Attempting to upload to Google Drive (into folder id: 142uJ7hXDuTUkB5w7WJIhlf1-If4DOr30)
+0019.275 (0) Googledrive chunked upload: 100 % uploaded
+0019.281 (0) OK: Archive backup_2018-05-18-0945_Rabi_7d230f13265c-others.zip uploaded to Google Drive in 1 seconds
+0019.285 (0) Recording as successfully uploaded: backup_2018-05-18-0945_Rabi_7d230f13265c-others.zip (f48afc2cd1746941ae5036fd405af375)
+0019.292 (0) Deleting local file: backup_2018-05-18-0945_Rabi_7d230f13265c-others.zip: OK
+0019.700 (0) Google Drive quota usage: used=138.5 MB, total=17408 MB, available=17269.5 MB
+0019.702 (0) backup_2018-05-18-0945_Rabi_7d230f13265c-db.gz: Attempting to upload to Google Drive (into folder id: 142uJ7hXDuTUkB5w7WJIhlf1-If4DOr30)
+0020.947 (0) Googledrive chunked upload: 100 % uploaded
+0020.955 (0) OK: Archive backup_2018-05-18-0945_Rabi_7d230f13265c-db.gz uploaded to Google Drive in 1.25 seconds
+0020.959 (0) Recording as successfully uploaded: backup_2018-05-18-0945_Rabi_7d230f13265c-db.gz (b9e3f5a675a226762f534f00ca778f87)
+0020.967 (0) Deleting local file: backup_2018-05-18-0945_Rabi_7d230f13265c-db.gz: OK
+0020.972 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0020.974 (0) Number of backup sets in history: 3; groups (db): 1
+0020.977 (0) Examining (for databases) backup set with group_id=0, nonce=7d230f13265c, datestamp=1526636759 (May 18 2018 09:45:59)
+0020.980 (0) This backup set is the backup set just made, so will not be deleted.
+0020.980 (0) Examining (for databases) backup set with group_id=0, nonce=c5f6a718a32d, datestamp=1513618505 (Dec 18 2017 17:35:05)
+0020.980 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.981 (0) Examining (for databases) backup set with group_id=0, nonce=b9b35334ba01, datestamp=1513607669 (Dec 18 2017 14:34:29)
+0020.981 (0) 1513607669: db: this set includes a database (backup_2017-12-18-1434_Rabi_b9b35334ba01-db.gz); db count is now 2
+0020.981 (0) 1513607669: db: over retain limit (2); will delete this database
+0020.982 (0) Delete file: backup_2017-12-18-1434_Rabi_b9b35334ba01-db.gz, service=googledrive
+0020.984 (0) Deleting local copy (backup_2017-12-18-1434_Rabi_b9b35334ba01-db.gz)
+0021.336 (0) backup_2017-12-18-1434_Rabi_b9b35334ba01-db.gz: Deletion failed: file was not found
+0021.341 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.344 (0) Number of backup sets in history: 3; groups (files): 1
+0021.345 (0) Examining (for files) backup set with nonce=7d230f13265c, datestamp=1526636759 (May 18 2018 09:45:59)
+0021.345 (0) This backup set is the backup set just made, so will not be deleted.
+0021.346 (0) This backup set is the backup set just made, so will not be deleted.
+0021.346 (0) This backup set is the backup set just made, so will not be deleted.
+0021.346 (0) This backup set is the backup set just made, so will not be deleted.
+0021.346 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.348 (0) Examining (for files) backup set with nonce=c5f6a718a32d, datestamp=1513618505 (Dec 18 2017 17:35:05)
+0021.348 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.348 (0) Examining (for files) backup set with nonce=b9b35334ba01, datestamp=1513607669 (Dec 18 2017 14:34:29)
+0021.348 (0) plugins: over retain limit (2); will delete this file entity
+0021.348 (0) themes: over retain limit (2); will delete this file entity
+0021.348 (0) uploads: over retain limit (2); will delete this file entity
+0021.348 (0) others: over retain limit (2); will delete this file entity
+0021.348 (0) Delete file: backup_2017-12-18-1434_Rabi_b9b35334ba01-plugins.zip, service=googledrive
+0021.350 (0) Deleting local copy (backup_2017-12-18-1434_Rabi_b9b35334ba01-plugins.zip)
+0021.352 (0) Delete file: backup_2017-12-18-1434_Rabi_b9b35334ba01-themes.zip, service=googledrive
+0021.353 (0) Deleting local copy (backup_2017-12-18-1434_Rabi_b9b35334ba01-themes.zip)
+0021.354 (0) Delete file: backup_2017-12-18-1434_Rabi_b9b35334ba01-uploads.zip, service=googledrive
+0021.356 (0) Deleting local copy (backup_2017-12-18-1434_Rabi_b9b35334ba01-uploads.zip)
+0021.357 (0) Delete file: backup_2017-12-18-1434_Rabi_b9b35334ba01-others.zip, service=googledrive
+0021.358 (0) Deleting local copy (backup_2017-12-18-1434_Rabi_b9b35334ba01-others.zip)
+0021.702 (0) backup_2017-12-18-1434_Rabi_b9b35334ba01-plugins.zip: Deletion failed: file was not found
+0021.705 (0) backup_2017-12-18-1434_Rabi_b9b35334ba01-themes.zip: Deletion failed: file was not found
+0021.706 (0) backup_2017-12-18-1434_Rabi_b9b35334ba01-uploads.zip: Deletion failed: file was not found
+0021.709 (0) backup_2017-12-18-1434_Rabi_b9b35334ba01-others.zip: Deletion failed: file was not found
+0021.713 (0) This backup set is now empty; will remove from history
+0021.714 (0) Deleting log file (log.b9b35334ba01.txt)
+0021.716 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0021.724 (0) Resume backup (7d230f13265c, 0): finish run
+0021.729 (0) Decremented the semaphore (fd) by 1
+0021.731 (0) Semaphore (fd) unlocked
+0021.733 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0021.738 (0) Fetching RSS news feed
+0021.792 (0) Fetched RSS news feed; result is a: SimplePie
+0021.805 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: rthap...
+0021.840 (0) The backup apparently succeeded and is now complete
